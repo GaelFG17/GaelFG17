@@ -13,5 +13,5 @@
 
 
 ## 📫 Contacto
-- [LinkedIn](https://www.linkedin.com/in/julieta-sanchez-mendoza-06640927b/)
-- sanchezmendozajulieta@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/gael-franco-garcia-992886340/)
+- gaelfg1720@gmail.com
