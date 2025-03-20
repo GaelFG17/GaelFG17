@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Holi
 
-<!--
-**GaelFG17/GaelFG17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-Here are some ideas to get you started:
+- 💻 Me gusta aprender, explorar y trabajar :)
+- ✨ Soy estudiante apasionada por la tecnología y el aprendizaje
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Tecnologías 
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)
+
+
+## 📫 Contacto
+- [LinkedIn](https://www.linkedin.com/in/julieta-sanchez-mendoza-06640927b/)
+- sanchezmendozajulieta@gmail.com
