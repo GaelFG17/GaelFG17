@@ -1,4 +1,5 @@
 # 👋 ¡Hola, mundo! Soy **Gael Franco**
+<script src="https://cdn.tailwindcss.com"></script>
 
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200"/>
 
@@ -19,12 +20,54 @@
 
 <br/>
 
-| 🧩 Lenguajes | ⚙️ Frameworks / Herramientas | 🚀 Aprendiendo |
-|-------------|-------------------------------|----------------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) | Flask | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
-| ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) | Spring Boot | -- |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff) | Node.js, Express, React | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Tailwind CSS | -- |
+<div class="grid grid-cols-1 md:grid-cols-2 gap-6 p-6 bg-gray-900 text-white rounded-2xl shadow-xl max-w-4xl mx-auto">
+  <!-- Lenguajes -->
+  <div class="bg-gray-800 p-4 rounded-xl hover:shadow-lg transition">
+    <h3 class="text-xl font-semibold mb-2">🧩 Lenguajes de Programación</h3>
+    <div class="flex flex-wrap gap-2">
+      <span class="bg-yellow-400 text-black px-3 py-1 rounded-full font-semibold">JavaScript</span>
+      <span class="bg-blue-600 px-3 py-1 rounded-full font-semibold">Python</span>
+      <span class="bg-orange-600 px-3 py-1 rounded-full font-semibold">Java</span>
+      <span class="bg-red-500 px-3 py-1 rounded-full font-semibold">HTML5</span>
+      <span class="bg-blue-400 px-3 py-1 rounded-full font-semibold">CSS3</span>
+    </div>
+  </div>
+
+  <!-- Frameworks -->
+  <div class="bg-gray-800 p-4 rounded-xl hover:shadow-lg transition">
+    <h3 class="text-xl font-semibold mb-2">⚙️ Frameworks y Herramientas</h3>
+    <div class="flex flex-wrap gap-2">
+      <span class="bg-green-600 px-3 py-1 rounded-full font-semibold">Spring Boot</span>
+      <span class="bg-black px-3 py-1 rounded-full font-semibold">Flask</span>
+      <span class="bg-green-500 px-3 py-1 rounded-full font-semibold">Node.js</span>
+      <span class="bg-gray-700 px-3 py-1 rounded-full font-semibold">Express</span>
+      <span class="bg-blue-500 px-3 py-1 rounded-full font-semibold">React</span>
+      <span class="bg-teal-400 px-3 py-1 rounded-full font-semibold">Tailwind CSS</span>
+    </div>
+  </div>
+
+  <!-- Aprendiendo -->
+  <div class="bg-gray-800 p-4 rounded-xl hover:shadow-lg transition">
+    <h3 class="text-xl font-semibold mb-2">🚀 Actualmente Aprendiendo</h3>
+    <div class="flex flex-wrap gap-2">
+      <span class="bg-cyan-700 px-3 py-1 rounded-full font-semibold">FastAPI</span>
+      <span class="bg-green-900 px-3 py-1 rounded-full font-semibold">Django</span>
+      <span class="bg-pink-700 px-3 py-1 rounded-full font-semibold">NestJS</span>
+    </div>
+  </div>
+
+  <!-- Otros -->
+  <div class="bg-gray-800 p-4 rounded-xl hover:shadow-lg transition">
+    <h3 class="text-xl font-semibold mb-2">📦 Otros</h3>
+    <div class="flex flex-wrap gap-2">
+      <span class="bg-blue-700 px-3 py-1 rounded-full font-semibold">Docker</span>
+      <span class="bg-green-300 text-black px-3 py-1 rounded-full font-semibold">MongoDB</span>
+      <span class="bg-red-700 px-3 py-1 rounded-full font-semibold">Redis</span>
+      <span class="bg-purple-600 px-3 py-1 rounded-full font-semibold">PostgreSQL</span>
+    </div>
+  </div>
+</div>
+
 
 </details>
 
@@ -49,7 +92,7 @@ Sistema web que detecta placas registradas y manipula una plumilla automáticame
 
 ---
 
-## 📫 ¿Contactame?
+## 📫 Contactame
 
 <p align="center">
   <a href="mailto:gaelfg1720@gmail.com">📩 Email</a> • 
