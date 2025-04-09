@@ -7,41 +7,44 @@
 ---
 
 ## 🧠 Sobre mí
-- 🔭 Actualmente estoy desarrollando proyectos que combinan **inteligencia artificial**, **microservicios** y **frontend atractivo**.
-- 🧪 Siempre explorando nuevas tecnologías y retos que me saquen de mi zona de confort.
-- 🌐 Apasionado por la programación, el diseño de sistemas distribuidos y la construcción de herramientas útiles para el mundo real.
+- 🔭 Actualmente desarrollando proyectos con **Python**, **Node**, **Spring**, y más.
+- 📚 Aprendiendo sobre arquitecturas distribuidas, seguridad, APIs y todo lo relacionado con el backend, asi como la distribucion en contenedores.
+- 🌐 Apasionado por la programación, el diseño de sistemas escalables y la construcción de herramientas útiles para el mundo real.
 
 ---
 
-## 🛠️ Tecnologías que manejo
-<div align="center">
-  
-| Lenguajes | Frameworks / Herramientas | Otros |
-|----------|----------------------------|-------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) | Flask, FastAPI, Spring Boot | Git & GitHub, Docker |
-| ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) | React, Node.js, Express | MongoDB, MySQL, Tailwind CSS |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff) | HTML5, CSS3 | REST APIs, Postman |
+## 🛠️ Tecnologías que manejo y estoy aprendiendo
 
-</div>
+| Lenguajes | Frameworks / Herramientas | Aprendiendo |
+|----------|----------------------------|-------------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) | Flask, FastAPI, Django(en aprendizaje) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) | Spring Boot | -- |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff) | Node.js, Express, React | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)(aprendizaje) |
+| HTML, CSS | Tailwind CSS | Docker, MongoDB, MySQL |
 
 ---
 
-## 🚀 Algunos proyectos destacados
+## 🚀 Proyectos destacados
 
-- 🧠 **Clasificador de Tumores con IA** – Entrené una red neuronal para segmentar imágenes MRI usando Flask y ResNet50.
-- 🕵️ **Keylogger Remoto con Panel de Control Web** – Sistema completo que monitorea y reporta actividad de una máquina remota.
-- 📊 **Encuesta Honey-Alonso Web App** – Cuestionario educativo con backend Flask y gráficos automáticos tipo radar.
+- 🧠 **Clasificador de Tumores con IA**  
+  Entrené una red neuronal para segmentar imágenes MRI usando Flask y ResNet50.  
+  🔗 [Ver repositorio](https://github.com/GaelFG17/mri_api)
 
-> *¡Siempre estoy trabajando en algo nuevo, así que mantente al pendiente!*
+- 🕵️ **Detector de placas con Panel Web**  
+  Sistema web que detecta placas registradas y manipula una plumilla.  
+  🔗 [Ver repositorio](https://github.com/GaelFG17/proyecto-placas)
+
+> *¿Quieres ver más? Échale un ojo a mi perfil de GitHub para más magia.* ✨
 
 ---
 
 ## 📫 ¿Hablamos?
 - [📩 Email](mailto:gaelfg1720@gmail.com)
 - [💼 LinkedIn](https://www.linkedin.com/in/gael-franco-garcia-992886340/)
+- 💻 [GitHub](https://github.com/GaelFG17)
 
 ---
 
 <p align="center">
-  Hecho con ❤️ por un eterno aprendiz.
+  Hecho con ❤️ por un eterno aprendiz que nunca se rinde. ¿A poco sí mi todo energúmeno?
 </p>
