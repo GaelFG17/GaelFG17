@@ -15,7 +15,7 @@
 
 ---
 
-<details>
+<body>
 <summary><strong>🛠️ Tecnologías que manejo y estoy aprendiendo</strong></summary>
 
 <br/>
@@ -67,9 +67,7 @@
     </div>
   </div>
 </div>
-
-
-</details>
+<body/>
 
 ---
 
