@@ -17,7 +17,7 @@
 
 | Lenguajes | Frameworks / Herramientas | Aprendiendo |
 |----------|----------------------------|-------------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) | Flask, FastAPI, Django(en aprendizaje) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) | Flask | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)|
 | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) | Spring Boot | -- |
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff) | Node.js, Express, React | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)(aprendizaje) |
 | HTML, CSS | Tailwind CSS | Docker, MongoDB, MySQL |
