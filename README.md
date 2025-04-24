@@ -61,5 +61,4 @@ Sistema web que detecta placas registradas y manipula una plumilla automáticame
 
 <p align="center">
   Hecho con ❤️ por un eterno aprendiz que nunca se rinde.  
-  <br/><strong>¿A poco sí mi todo energúmeno?</strong>
 </p>
